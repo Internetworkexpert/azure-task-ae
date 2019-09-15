@@ -6,10 +6,10 @@ namespace alwaysencrypted
 {
     class Program
     {
+            static string connectionString = "";
 
         static void Main(string[] args)
         {
-            var connectionString = Environment.GetEnvironmentVariable("sqlConnection");
             Console.Write("Enter a secret: ");
             string secret = Console.ReadLine();
             var conn = new SqlConnection(connectionString);
