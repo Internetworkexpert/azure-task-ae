@@ -1,14 +1,15 @@
 ﻿using System;
 using Microsoft.Data.SqlClient;
 using System.Data;
+
 namespace alwaysencrypted
 {
     class Program
     {
-            static string connectionString = "Server=tcp:{your server}.database.windows.net,1433;Initial Catalog=Encrypted;user id=student; password={your password}; Column Encryption Setting=enabled";
 
         static void Main(string[] args)
         {
+            var connectionString = Environment.GetEnvironmentVariable("sqlConnection");
             Console.Write("Enter a secret: ");
             string secret = Console.ReadLine();
             var conn = new SqlConnection(connectionString);
