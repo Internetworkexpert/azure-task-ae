@@ -1,0 +1,11 @@
+G:\My Drive\AzArchTasks\alwaysencrypted\bin\Release\netcoreapp2.2\alwaysencrypted.deps.json
+G:\My Drive\AzArchTasks\alwaysencrypted\bin\Release\netcoreapp2.2\alwaysencrypted.runtimeconfig.json
+G:\My Drive\AzArchTasks\alwaysencrypted\bin\Release\netcoreapp2.2\alwaysencrypted.runtimeconfig.dev.json
+G:\My Drive\AzArchTasks\alwaysencrypted\bin\Release\netcoreapp2.2\alwaysencrypted.dll
+G:\My Drive\AzArchTasks\alwaysencrypted\bin\Release\netcoreapp2.2\alwaysencrypted.pdb
+G:\My Drive\AzArchTasks\alwaysencrypted\obj\Release\netcoreapp2.2\alwaysencrypted.csprojAssemblyReference.cache
+G:\My Drive\AzArchTasks\alwaysencrypted\obj\Release\netcoreapp2.2\alwaysencrypted.csproj.CoreCompileInputs.cache
+G:\My Drive\AzArchTasks\alwaysencrypted\obj\Release\netcoreapp2.2\alwaysencrypted.AssemblyInfoInputs.cache
+G:\My Drive\AzArchTasks\alwaysencrypted\obj\Release\netcoreapp2.2\alwaysencrypted.AssemblyInfo.cs
+G:\My Drive\AzArchTasks\alwaysencrypted\obj\Release\netcoreapp2.2\alwaysencrypted.dll
+G:\My Drive\AzArchTasks\alwaysencrypted\obj\Release\netcoreapp2.2\alwaysencrypted.pdb
